@@ -38,22 +38,6 @@ I build and lead **AI-first, cloud-native platforms** for regulated enterprises�
 - **🗃️ Data platforms:** BigQuery, Dataflow (Beam), Airflow/Composer, dbt, Data Vault 2.0  
 - **🧑‍💻 Engineering leadership:** platform standards, architecture reviews, technical roadmaping, stakeholder alignment  
 
----
-
-## 🧪 Public work
-I’m actively publishing reusable **reference implementations** and architecture patterns here:  
-🔗 https://github.com/sunilp?tab=repositories
-
-If you’re hiring for AI leadership, the fastest evaluation is a discussion on:
-1) **AI platform design, safety & governance**, and  
-2) **productionization trade-offs** (quality, latency, cost, reliability).
-
----
-
-## 🎓 Education & certifications
-- **M.Tech — Enterprise Business Analytics**, National University of Singapore  
-- **PGPMAX — Executive MBA (In Progress)**, Indian School of Business  
-- **Google Cloud Professional Cloud Architect** (+ AI / deep learning specializations)
 
 ---
 
