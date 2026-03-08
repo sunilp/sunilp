@@ -1,6 +1,6 @@
 # Sunil Prakash (@sunilp)
 
-**AI Platform & Cloud Architect (VP) • Regulated Banking • GenAI/LLMOps**  
+**AI Platform & Cloud Architect • GenAI/LLMOps**  
 📍 Pune, India 
 
 I build and lead **AI-first, cloud-native platforms** for regulated enterprises—taking systems from concept to production with strong **governance, safety, reliability, and cost control**. I stay hands-on in architecture, critical implementation paths, reviews, and production readiness.
