@@ -1,18 +1,34 @@
 # Sunil Prakash
 
-**VP, Cloud, AI & Platform Architecture — Deutsche Bank**
-Enterprise AI Strategy · Platform Modernization · Data Foundations · Governance-by-Design
+**VP, Cloud & Platform Architecture — Deutsche Bank**
+Building production AI/ML and GenAI systems in regulated financial services.
 
 ---
 
-I lead large-scale technology transformation in regulated financial services — turning AI and platform ambition into durable organizational capability with clear operating models, robust governance, and repeatable delivery standards.
+I architect and build production AI systems — and I lead the strategy, governance, and teams that make them ship in the hardest environments. My work sits at the intersection of hands-on engineering (GenAI, NLP, data platforms on GCP) and enterprise leadership (operating models, risk frameworks, cross-functional delivery).
 
-### What I Work On
+### What I Build
 
-- **Cloud-native platform architecture** for Tier-1 banking — migrating legacy application estates to modern, resilient systems on GCP
-- **Enterprise data foundations** — BigQuery, Dataflow, Composer, dbt, and Data Vault 2.0 for long-horizon regulatory traceability
-- **AI governance & productionization** — moving AI from isolated pilots to enterprise delivery pathways with risk controls built in
-- **Operating model design** — defining standards, accountabilities, and delivery discipline for large engineering portfolios
+- **GenAI platforms for banking** — LLM orchestration, guardrails, evaluation pipelines, and observability for production GenAI deployments
+- **RAG systems at enterprise scale** — chunking strategies, hybrid retrieval, reranking, and domain-specific evaluation on financial documents
+- **Cloud-native data platforms** — BigQuery, Dataflow, Composer, dbt, Data Vault 2.0 for regulatory-grade data foundations on GCP
+- **NLP & deep learning pipelines** — from capsule networks and BiLSTM-CRF to transformer fine-tuning and event-driven stream processing
+
+### What I Lead
+
+- **AI governance & compliance** — risk classification, model lifecycle controls, EU AI Act alignment, prompt audit trails
+- **Platform modernization** — migrating legacy application estates to resilient systems on GCP
+- **Operating model design** — team structures, delivery standards, and accountability frameworks for large engineering portfolios
+
+### Selected Repositories
+
+| Repository | What It Does |
+|---|---|
+| [`enterprise-rag-bench`](https://github.com/sunilp/enterprise-rag-bench) | RAG patterns benchmarked for enterprise: 5 chunking strategies, 5 retrieval patterns, evaluation harness, guardrails, observability |
+| [`enterprise-genai-platform`](https://github.com/sunilp/enterprise-genai-platform) | Reference architecture for LLM applications in banking: chain routing, prompt registry, guardrails, eval pipelines, drift monitoring |
+| [`applied-nlp-research`](https://github.com/sunilp/applied-nlp-research) | Production NLP from pre-LLM to post-LLM: capsule networks, BiLSTM-CRF, transformer NER, event-driven stream processing |
+| [`ai-governance-framework`](https://github.com/sunilp/ai-governance-framework) | AI governance for regulated industries: risk assessment, model lifecycle, compliance mapping, responsible AI standards |
+| [`reference-data-platform-gcp`](https://github.com/sunilp/reference-data-platform-gcp) | GCP data platform reference architecture: BigQuery, Dataflow, Composer, dbt, Data Vault 2.0 |
 
 ### Background
 
@@ -22,19 +38,10 @@ I lead large-scale technology transformation in regulated financial services —
 
 **Education:** PGPMAX (Executive MBA), ISB · M.Tech Business Analytics, NUS · Google Cloud Professional Cloud Architect
 
-### Selected Repositories
+### Writing
 
-| Repository | Description |
-|---|---|
-| [`reference-data-platform-gcp`](https://github.com/sunilp/reference-data-platform-gcp) | Reference architecture for a compliant data platform on GCP — BigQuery, Dataflow, Composer, dbt, Data Vault 2.0 |
-| [`ai-governance-framework`](https://github.com/sunilp/ai-governance-framework) | Practical AI governance patterns for regulated industries — risk assessment templates, model lifecycle controls, EU AI Act alignment |
-| [`dbt-data-vault-starter`](https://github.com/sunilp/dbt-data-vault-starter) | Opinionated dbt project template for Data Vault 2.0 — hubs, links, satellites with built-in audit and lineage patterns |
-
-### Writing & Talks
-
-- [sunilprakash.com](https://sunilprakash.com) — Leadership portfolio and case studies
-- [LinkedIn](https://www.linkedin.com/in/sunilprakash) — Regular posts on enterprise AI governance, platform strategy, and transformation leadership
+[sunilprakash.com](https://sunilprakash.com) — Technical writing on enterprise AI, RAG patterns, data architecture, and AI governance.
 
 ---
 
-<sub>Open to leadership conversations in enterprise AI, platform modernization, and data transformation. Reach me at sunil@sunilprakash.com</sub>
+<sub>Architect + Builder + Leader · sunil@sunilprakash.com · [LinkedIn](https://www.linkedin.com/in/sunilprakash)</sub>
