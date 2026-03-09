@@ -1,51 +1,40 @@
-# Sunil Prakash (@sunilp)
+# Sunil Prakash
 
-**AI Platform & Cloud Architect • GenAI/LLMOps**  
-📍 Pune, India 
-
-I build and lead **AI-first, cloud-native platforms** for regulated enterprises—taking systems from concept to production with strong **governance, safety, reliability, and cost control**. I stay hands-on in architecture, critical implementation paths, reviews, and production readiness.
-
+**VP, Cloud & Platform Architecture — Deutsche Bank**
+Enterprise AI Strategy · Platform Modernization · Data Foundations · Governance-by-Design
 
 ---
 
-## 🎯 What I focus on
+I lead large-scale technology transformation in regulated financial services — turning AI and platform ambition into durable organizational capability with clear operating models, robust governance, and repeatable delivery standards.
 
-### 🧭 AI leadership: strategy → execution
-- Define the **AI platform blueprint** (reference architectures, guardrails, reusable patterns)
-- Establish operating model: **quality gates, evaluation, observability, incident hygiene**
-- Partner with security/risk/compliance to deliver **audit-ready** AI systems
+### What I Work On
 
-### 🤖 Production GenAI (not just demos)
-- Secure RAG and agentic workflows: **access control, grounding, prompt-injection defenses**
-- **LLMOps/EvalOps**: golden sets, regression testing, safety checks, latency/cost budgets
-- Deployment patterns for regulated environments: approvals, traceability, monitoring
+- **Cloud-native platform architecture** for Tier-1 banking — migrating legacy application estates to modern, resilient systems on GCP
+- **Enterprise data foundations** — BigQuery, Dataflow, Composer, dbt, and Data Vault 2.0 for long-horizon regulatory traceability
+- **AI governance & productionization** — moving AI from isolated pilots to enterprise delivery pathways with risk controls built in
+- **Operating model design** — defining standards, accountabilities, and delivery discipline for large engineering portfolios
 
-### 🧱 Data foundations for AI
-- Modern data platforms with governance-by-design
-- **BigQuery + Dataflow (Beam) + Airflow/Composer + dbt + Data Vault 2.0** patterns
+### Background
 
-### ☁️ Platform engineering
-- Kubernetes-based platforms, service mesh, CI/CD, “golden paths”
-- Reliability, security-by-design, cost/performance trade-offs
+- **Deutsche Bank** — VP, Cloud & Platform Architecture (2021–present)
+- **Halialabs** — Chief Scientist, AI & Platform Architecture (2018–2021)
+- **Cognizant** — Technology Specialist / Software Architect (2012–2017)
 
----
+**Education:** PGPMAX (Executive MBA), ISB · M.Tech Business Analytics, NUS · Google Cloud Professional Cloud Architect
 
+### Selected Repositories
 
-## 🧠 Core strengths
+| Repository | Description |
+|---|---|
+| [`reference-data-platform-gcp`](https://github.com/sunilp/reference-data-platform-gcp) | Reference architecture for a compliant data platform on GCP — BigQuery, Dataflow, Composer, dbt, Data Vault 2.0 |
+| [`ai-governance-framework`](https://github.com/sunilp/ai-governance-framework) | Practical AI governance patterns for regulated industries — risk assessment templates, model lifecycle controls, EU AI Act alignment |
+| [`dbt-data-vault-starter`](https://github.com/sunilp/dbt-data-vault-starter) | Opinionated dbt project template for Data Vault 2.0 — hubs, links, satellites with built-in audit and lineage patterns |
 
-- **🤖 AI & GenAI:** agentic workflows, evaluation frameworks, model serving, LLMOps/MLOps  
-- **☁️ Platforms:** Kubernetes, service mesh, CI/CD, platform standards, reliability & cost governance  
-- **🗃️ Data platforms:** BigQuery, Dataflow (Beam), Airflow/Composer, dbt, Data Vault 2.0  
-- **🧑‍💻 Engineering leadership:** platform standards, architecture reviews, technical roadmaping, stakeholder alignment  
+### Writing & Talks
 
-
----
-
-## 📝 Notes
-I don’t share proprietary code, internal designs, or confidential metrics. Public work here focuses on reusable patterns and reference implementations.
+- [sunilprakash.com](https://sunilprakash.com) — Leadership portfolio and case studies
+- [LinkedIn](https://www.linkedin.com/in/sunilprakash) — Regular posts on enterprise AI governance, platform strategy, and transformation leadership
 
 ---
 
-## 📬 Contact
-💼 LinkedIn: https://www.linkedin.com/in/sunilprakash/  
-🌐 Website/contact: https://sunilprakash.com
+<sub>Open to leadership conversations in enterprise AI, platform modernization, and data transformation. Reach me at sunil@sunilprakash.com</sub>
