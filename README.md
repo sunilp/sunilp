@@ -1,6 +1,6 @@
 # Sunil Prakash
 
-**VP, Cloud & Platform Architecture — Deutsche Bank**
+**VP, Cloud, AI & Platform Architecture — Deutsche Bank**
 Enterprise AI Strategy · Platform Modernization · Data Foundations · Governance-by-Design
 
 ---
