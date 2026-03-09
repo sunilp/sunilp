@@ -5,11 +5,11 @@ Building production AI/ML and GenAI systems in regulated financial services.
 
 ---
 
-I architect and build production AI systems — and I lead the strategy, governance, and teams that make them ship in the hardest environments. My work sits at the intersection of hands-on engineering (GenAI, NLP, data platforms on GCP) and enterprise leadership (operating models, risk frameworks, cross-functional delivery).
+I architect and build production Data and AI systems — and I lead the strategy, governance, and teams that make them ship in the hardest environments. My work sits at the intersection of hands-on engineering (GenAI, NLP, data platforms on GCP) and enterprise leadership (operating models, risk frameworks, cross-functional delivery).
 
 ### What I Build
 
-- **GenAI platforms for banking** — LLM orchestration, guardrails, evaluation pipelines, and observability for production GenAI deployments
+- **GenAI platforms** — LLM orchestration, guardrails, evaluation pipelines, and observability for production GenAI deployments
 - **RAG systems at enterprise scale** — chunking strategies, hybrid retrieval, reranking, and domain-specific evaluation on financial documents
 - **Cloud-native data platforms** — BigQuery, Dataflow, Composer, dbt, Data Vault 2.0 for regulatory-grade data foundations on GCP
 - **NLP & deep learning pipelines** — from capsule networks and BiLSTM-CRF to transformer fine-tuning and event-driven stream processing
@@ -35,6 +35,7 @@ I architect and build production AI systems — and I lead the strategy, governa
 - **Deutsche Bank** — VP, Cloud & Platform Architecture (2021–present)
 - **Halialabs** — Chief Scientist, AI & Platform Architecture (2018–2021)
 - **Cognizant** — Technology Specialist / Software Architect (2012–2017)
+- **Syntel** — Technology Specialist (2007–2012)
 
 **Education:** PGPMAX (Executive MBA), ISB · M.Tech Business Analytics, NUS · Google Cloud Professional Cloud Architect
 
