@@ -35,7 +35,7 @@ I architect and build production Data and AI systems — and I lead the strategy
 - **Deutsche Bank** — VP, Cloud & Platform Architecture (2021–present)
 - **Halialabs** — Chief Scientist, AI & Platform Architecture (2018–2021)
 - **Cognizant** — Technology Specialist / Software Architect (2012–2017)
-- **Syntel** — Technology Specialist (2007–2012)
+- **Syntel** — Software Engineer / Project Lead (2007–2012)
 
 **Education:** PGPMAX (Executive MBA), ISB · M.Tech Business Analytics, NUS · Google Cloud Professional Cloud Architect
 
