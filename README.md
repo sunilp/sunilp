@@ -20,10 +20,16 @@ I architect and build production Data and AI systems — and I lead the strategy
 - **Platform modernization** — migrating legacy application estates to resilient systems on GCP
 - **Operating model design** — team structures, delivery standards, and accountability frameworks for large engineering portfolios
 
+### Research
+
+**LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems** — [arXiv:2603.08852](https://arxiv.org/abs/2603.08852v1)
+<br>Introduces rich delegate identity cards, progressive payload modes, governed sessions, and trust domains for multi-agent delegation. 12x latency gains, 37% token reduction. [`ldp-protocol`](https://github.com/sunilp/ldp-protocol) · [`ldp-research`](https://github.com/sunilp/ldp-research)
+
 ### Selected Repositories
 
 | Repository | What It Does |
 |---|---|
+| [`ldp-protocol`](https://github.com/sunilp/ldp-protocol) | LLM Delegate Protocol — identity-aware communication for multi-agent systems (Rust reference implementation) |
 | [`enterprise-rag-bench`](https://github.com/sunilp/enterprise-rag-bench) | RAG patterns benchmarked for enterprise: 5 chunking strategies, 5 retrieval patterns, evaluation harness, guardrails, observability |
 | [`enterprise-genai-platform`](https://github.com/sunilp/enterprise-genai-platform) | Reference architecture for LLM applications in banking: chain routing, prompt registry, guardrails, eval pipelines, drift monitoring |
 | [`applied-nlp-research`](https://github.com/sunilp/applied-nlp-research) | Production NLP from pre-LLM to post-LLM: capsule networks, BiLSTM-CRF, transformer NER, event-driven stream processing |
