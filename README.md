@@ -36,6 +36,10 @@ Trust infrastructure for multi-agent AI systems: identity, delegation, provenanc
 **DCI: Structured Collective Reasoning with Typed Epistemic Acts** — [arXiv:2603.11781](https://arxiv.org/abs/2603.11781)
 <br>Deliberative structure for multi-agent LLM reasoning: 4 archetypes, 14 typed epistemic acts, convergent flow algorithm. +0.95 over debate on non-routine tasks, 9.56 on hidden-profile (best in study). Honest result: 62x token cost, fails on routine decisions.
 
+### Books
+
+**[Agentic AI for Serious Engineers](https://sunilprakash.com/agentic-ai/)** — Open engineering guide to building reliable, evaluable, and production-grade AI agent systems. Covers agent architectures, tool use, multi-agent coordination, evaluation frameworks, human-in-the-loop design, and production deployment. Also available on [Amazon KDP](https://www.amazon.com/dp/B0F3YSM36M).
+
 ### Selected Repositories
 
 | Repository | What It Does |
