@@ -37,7 +37,6 @@ Trust infrastructure for multi-agent AI systems: identity, delegation, provenanc
 - **Cognizant** — Technology Specialist / Software Architect (2012–2017)
 - **Syntel** — Software Engineer / Project Lead (2007–2012)
 
-**Education:** PGPMAX (Executive MBA), ISB · M.Tech Business Analytics, NUS · Google Cloud Professional Cloud Architect
 
 ### Writing
 
