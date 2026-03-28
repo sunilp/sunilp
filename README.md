@@ -1,24 +1,9 @@
 # Sunil Prakash
 
-**VP, Cloud & Platform Architecture — Deutsche Bank**
-Building production AI/ML and GenAI systems in regulated financial services.
+**Enterprise AI & Platform Architecture Leader**
+Production AI systems, governance, and trust infrastructure for regulated financial services. VP at Deutsche Bank.
 
 ---
-
-I architect and build production Data and AI systems — and I lead the strategy, governance, and teams that make them ship in the hardest environments. My work sits at the intersection of hands-on engineering (GenAI, NLP, data platforms on GCP) and enterprise leadership (operating models, risk frameworks, cross-functional delivery).
-
-### What I Build
-
-- **GenAI platforms** — LLM orchestration, guardrails, evaluation pipelines, and observability for production GenAI deployments
-- **RAG systems at enterprise scale** — chunking strategies, hybrid retrieval, reranking, and domain-specific evaluation on financial documents
-- **Cloud-native data platforms** — BigQuery, Dataflow, Composer, dbt, Data Vault 2.0 for regulatory-grade data foundations on GCP
-- **NLP & deep learning pipelines** — from capsule networks and BiLSTM-CRF to transformer fine-tuning and event-driven stream processing
-
-### What I Lead
-
-- **AI governance & compliance** — risk classification, model lifecycle controls, EU AI Act alignment, prompt audit trails
-- **Platform modernization** — migrating legacy application estates to resilient systems on GCP
-- **Operating model design** — team structures, delivery standards, and accountability frameworks for large engineering portfolios
 
 ### Research
 
@@ -67,4 +52,4 @@ Trust infrastructure for multi-agent AI systems: identity, delegation, provenanc
 
 ---
 
-<sub>Architect + Builder + Leader · sunil@sunilprakash.com · [LinkedIn](https://www.linkedin.com/in/sunilprakash)</sub>
+<sub>sunil@sunilprakash.com · [LinkedIn](https://www.linkedin.com/in/sunilprakash)</sub>
