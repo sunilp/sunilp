@@ -16,7 +16,7 @@ Trust infrastructure for multi-agent AI systems: identity, delegation, provenanc
 
 ### Books
 
-**[Agentic AI for Serious Engineers](https://sunilprakash.com/agentic-ai/)** — Open engineering guide to building reliable, evaluable, and production-grade AI agent systems. Covers agent architectures, tool use, multi-agent coordination, evaluation frameworks, human-in-the-loop design, and production deployment. Also available on [Amazon KDP](https://www.amazon.com/dp/B0F3YSM36M).
+**[Agentic AI for Serious Engineers](https://sunilprakash.com/agentic-ai/)** — A practical field guide to reliable, evaluable, production-grade agent systems. 11 chapters on when to use agents and when not to, evaluation, hardening, governance, and production reality. Available on [Amazon](https://www.amazon.in/dp/B0GQVBG2MZ/) (paperback & Kindle) and [free online](https://sunilprakash.com/agentic-ai/).
 
 ### Selected Repositories
 
