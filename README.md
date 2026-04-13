@@ -1,7 +1,8 @@
 # Sunil Prakash
 
-**Enterprise AI & Platform Architecture Leader**
-Production AI systems, governance, and trust infrastructure for regulated financial services.
+**Enterprise AI & Platform Architecture Leader** for regulated financial services. Building production AI systems, governance frameworks, and trust infrastructure.
+
+4 papers · 1 book · IETF draft · open-source protocols, runtimes, and tooling · enterprise architecture leadership
 
 ---
 
@@ -29,7 +30,7 @@ My research addresses a structural gap: multi-agent AI systems have no standard 
  └─────────────┘
 ```
 
-Each layer solves a different problem: AIP handles *who is this agent and what can it do*, LDP handles *how do agents route and attest provenance*, DCI handles *how do agents reason together*. The book covers how to build, evaluate, and govern all of it in production.
+Each layer solves a different problem: AIP handles *who is this agent and what can it do*, LDP handles *how do agents route and attest provenance*, DCI handles *how do agents reason together*. These ideas flow from protocol research into practical runtimes and developer tooling. The book covers how to build, evaluate, and govern all of it in production.
 
 ### Research
 
