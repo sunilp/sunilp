@@ -2,7 +2,7 @@
 
 **Enterprise AI & Platform Architecture Leader** for regulated financial services. Building production AI systems, governance frameworks, and trust infrastructure.
 
-4 papers · 1 book · IETF draft · open-source protocols, runtimes, and tooling · enterprise architecture leadership
+Published research · book · IETF draft · open-source protocols, runtimes, and tooling · enterprise architecture leadership
 
 ---
 
