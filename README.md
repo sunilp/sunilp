@@ -2,13 +2,13 @@
 
 **Enterprise AI & Platform Architecture Leader** for regulated financial services. Building production AI systems, governance frameworks, and trust infrastructure.
 
-Published research · book · IETF draft · open-source protocols, runtimes, and tooling · enterprise architecture leadership
+Published research · book · IETF draft · open-source protocols and tooling
 
 ---
 
 ### The Trust Stack for Multi-Agent AI
 
-My research addresses a structural gap: multi-agent AI systems have no standard for identity, delegation, or provenance. I designed a layered trust stack to solve this:
+My research focuses on an open problem: multi-agent AI systems have no standard for identity, delegation, or provenance. The work spans four layers:
 
 ```
  Research          Specifications         Implementations        Guides
